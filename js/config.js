@@ -1,5 +1,6 @@
 // 通过修改config_json变量，修改页面加载的数据
 var config_json = {
+    // 网站图标替换文件 img/icon.jpg
     "index": {
         // 标题可以修改成 xx非官方页
         "title": "网站标题 VTB主页模板",
