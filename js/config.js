@@ -52,7 +52,8 @@ var config_json = {
         "imgData": [
             // 图片需要挨个追加
             "1.png", 
-            "2.png"
+            "2.png",
+            "3.png"
         ]
     },
     // 群友语录页面

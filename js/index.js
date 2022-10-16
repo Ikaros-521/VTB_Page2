@@ -1,6 +1,7 @@
 window.onload = function() {
     console.log("welcome");
     sessionStorage.setItem("language", "ch");
+    document.title = config_json["index"]["title"];
     document.getElementById("b_homepage").href = "https://space.bilibili.com/" + config_json["index"]["bili_uid"];
 }
 
